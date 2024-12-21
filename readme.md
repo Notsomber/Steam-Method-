@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This method is being shared completely **free**. Many people would attempt to sell this method, but I believe this knowledge should be shared without any profit motive. This guide explains how to temporarily "unlock" games on Steam.
+This method is being shared completely **free**. Many people would sell this method for profit, but I believe that knowledge like this should be shared without any monetary barriers. This guide explains how to temporarily "unlock" games on Steam.
 
 > **Disclaimer:** This method is for educational purposes only. I am not responsible for how you use this information. Use it at your own risk.
 
@@ -44,10 +44,13 @@ This method involves injecting Lua scripts into your Steam client to "unlock" a 
 
 ---
 
-### Steps to Unlock Games:
-1. Use the Lua Injector to inject the downloaded script into your Steam client.
-2. Launch Steam and select the game you want to unlock.
-3. Enjoy the game locally while the script is running. Steam will display "Spacewarp" as the game title.
+### Steps to Use the Lua Injector:
+1. Launch the Lua Injector tool.  
+2. A floating Steam icon will appear on your screen.  
+3. Drag the downloaded Lua script into the floating Steam icon.  
+4. Right-click the Steam icon and select **Restart** to apply the script and unlock the game.  
+5. Launch the game and enjoy playing locally while the script is active.  
+   - **Note:** The game will show as "Spacewarp" while running.
 
 ---
 
